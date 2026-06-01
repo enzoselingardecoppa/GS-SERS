@@ -81,4 +81,4 @@ Loop de perguntas onde o usuário interage com a IA com base nas leituras atuais
 ## Links
 
 - Repositório GitHub: [(https://github.com/enzoselingardecoppa/GS-SERS/tree/main)]
-- Vídeo YouTube: [link]
+- Vídeo YouTube: [https://youtu.be/FR3RM7C7N3A]
